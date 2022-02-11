@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Physics Based Games/Lab 5 Java code-20210216/JBox2D jar and src files-20210216/jbox2d-library-2.2.1.1.jar" sourcepath="C:/Users/44755/.ideaLibSources/jbox2d-library-2.2.1.1-sources.jar"/>
+	<classpathentry kind="output" path="out/production/PBG_Assignment"/>
+</classpath>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/PBG_Assignment"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="jbox2d-library-2.2.1.1.jar" scope="COMPILE">
+		<srcroot url="jar://$USER_HOME$/.ideaLibSources/jbox2d-library-2.2.1.1-sources.jar!/"/>
+	</lib>
+</component>

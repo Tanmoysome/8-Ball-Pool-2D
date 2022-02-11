@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PBG_Assignment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PBG_Assignment_jar</output-path>
+    <root id="archive" name="PBG_Assignment.jar">
+      <element id="module-output" name="PBG_Assignment" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Lab 5 Java code-20210216/JBox2D jar and src files-20210216/jbox2d-library-2.2.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
